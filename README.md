@@ -28,3 +28,20 @@
 #### GWENT ([https://www.playgwent.com/en/](https://www.playgwent.com/en/))
 
 #### LightSeekers AR Trading Card Game ([https://rpg.lightseekers.com/](https://rpg.lightseekers.com/))
+
+
+
+**Checkpoints for week#2**
+
+ - Unity3D project has been created and minimal UI/UX has been implemented(buttons, healthbar etc)
+ - Field components where a creature can be placed have been implemented.
+ - Creature components have been added.
+ - Added AR functionality using Vuforia 
+ - Started working on networking using Normcore framework, made possible to share logic across the network.
+
+**Checkpoints for week#3**
+
+ - Added turns mechanic(each player have to work for his turn in order to play)
+ - Improved networking and fixed bugs with the turn mechanic
+ - Added interactions between creatures at the end of each turn
+
