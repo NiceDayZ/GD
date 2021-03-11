@@ -29,7 +29,7 @@
 
 #### LightSeekers AR Trading Card Game ([https://rpg.lightseekers.com/](https://rpg.lightseekers.com/))
 
-
+---
 
 **Checkpoints for week#2**
 
