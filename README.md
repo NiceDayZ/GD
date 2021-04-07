@@ -7,7 +7,10 @@
 
 [Arhiva Proiect](https://drive.google.com/drive/folders/18iVYfz0BP-ebrDoqoc8UgOdXBsKQBnHy?usp=sharing)
 ---
-###Spreadsheet with available creatures:https://docs.google.com/spreadsheets/d/1vicG7074kdIW6Vck_81Fmi02pwr_QhWuW-3WBgzMdrA/edit?usp=sharing
+
+### Spreadsheet with available creatures:
+https://docs.google.com/spreadsheets/d/1vicG7074kdIW6Vck_81Fmi02pwr_QhWuW-3WBgzMdrA/edit?usp=sharing
+
 ---
 
 ### Type of Game:
