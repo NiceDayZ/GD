@@ -8,10 +8,10 @@
 [Arhiva Proiect](https://drive.google.com/drive/folders/18iVYfz0BP-ebrDoqoc8UgOdXBsKQBnHy?usp=sharing)
 ---
 
-### Spreadsheet with available creatures:
-https://docs.google.com/spreadsheets/d/1vicG7074kdIW6Vck_81Fmi02pwr_QhWuW-3WBgzMdrA/edit?usp=sharing
-
+### Spreadsheet with information about available creatures and spells:
+[Creatures & Spells](https://docs.google.com/spreadsheets/d/1vicG7074kdIW6Vck_81Fmi02pwr_QhWuW-3WBgzMdrA/edit?usp=sharing)
 ---
+
 
 ### Type of Game:
 
@@ -57,8 +57,16 @@ https://docs.google.com/spreadsheets/d/1vicG7074kdIW6Vck_81Fmi02pwr_QhWuW-3WBgzM
  - Improvements have been done for the camera system , now that AR is not available anymore adjustment for the player FOV have been made , we opted for a collection of cameras which display different angles for the player.
 
 **Checkpoints for week#5**
-- Assets for replacing the old card items prefabs have been made and can be found in the Utils folder.
-- We worked on a skybox for enhancing user immersion.
-- Currently a version for only two players connecting to one common session is available due to interface changes that are worked on at the moment.There is also a room system to come.
-- Animations were introduced either by using the in-package animations or using the Adobe Maxon utility to produce basic movement(idle , attack , run) for **anthropomorphic** type creatures.
+ - Assets for replacing the old card items prefabs have been made and can be found in the Utils folder.
+ - We worked on a skybox for enhancing user immersion.
+ - Currently a version for only two players connecting to one common session is available due to interface changes that are worked on at the moment.There is also a room system to come.
+ - Animations were introduced either by using the in-package animations or using the Adobe Maxon utility to produce basic movement(idle , attack , run) for **anthropomorphic** type creatures.
 
+**Checkpoints for week#6**
+ - Assets for implementing cards were fabricated. These can be found in the Utils folder as well
+ - More improvements to the interface have been made, for instance now you can clearly see the Attack and HP values for a summoned creature
+ - Mechanics such as sacrifice or evolution for cards were introduced to further spice up the gameplay
+ - Most of the creatures attributes have been normalized and can be found in the linked spreadsheet above
+**Checkpoints for week#7**
+- Debugging existing problems such as text clipping through its boundaries, fixes were introduced 
+- Some bug fixing to the network synchronisation aspect of the game.
