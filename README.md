@@ -67,6 +67,7 @@
  - More improvements to the interface have been made, for instance now you can clearly see the Attack and HP values for a summoned creature
  - Mechanics such as sacrifice or evolution for cards were introduced to further spice up the gameplay
  - Most of the creatures attributes have been normalized and can be found in the linked spreadsheet above
+ 
 **Checkpoints for week#7**
 - Debugging existing problems such as text clipping through its boundaries, fixes were introduced 
 - Some bug fixing to the network synchronisation aspect of the game.
