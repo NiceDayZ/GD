@@ -15,7 +15,7 @@
 
 ### Type of Game:
 
-#### AR Battle Card Game
+#### Battle Card Game
 
 ---
 
@@ -30,8 +30,6 @@
 #### Heartstone ([https://playhearthstone.com/en-us](https://playhearthstone.com/en-us))
 
 #### GWENT ([https://www.playgwent.com/en/](https://www.playgwent.com/en/))
-
-#### LightSeekers AR Trading Card Game ([https://rpg.lightseekers.com/](https://rpg.lightseekers.com/))
 
 ---
 
