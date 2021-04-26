@@ -67,5 +67,22 @@
  - Most of the creatures attributes have been normalized and can be found in the linked spreadsheet above
  
 **Checkpoints for week#7**
-- Debugging existing problems such as text clipping through its boundaries, fixes were introduced 
-- Some bug fixing to the network synchronisation aspect of the game.
+ - Debugging existing problems such as text clipping through its boundaries, fixes were introduced 
+ - Some bug fixing to the network synchronisation aspect of the game.
+
+**Checkpoints for week#8**
+
+ - More balancing for a set of cards to promote a fair game. The results can be seen in the attached spreadsheet
+ - Started working on an interface and functionality for a lobby based matching
+ - Prototyped a basic animation system using Unity native Animator
+
+**Checkpoints for week#9**
+
+ - Implemented the interface for lobbies and matches but it still have issues to be solved on the syncronization aspect
+ - Started working on a sound system but it is yet to be implemented since it has some problems
+
+**Checkpoints for week#10**
+
+ - Fixed some issues regarding monsters spawning outside of the map sometimes
+ - Improved stability fixed some really nasty crashing problems.
+ - Improved spawn chances for some cards. Stronger cards are less likely to be drawn from the card.
