@@ -86,3 +86,18 @@
  - Fixed some issues regarding monsters spawning outside of the map sometimes
  - Improved stability fixed some really nasty crashing problems.
  - Improved spawn chances for some cards. Stronger cards are less likely to be drawn from the card.
+ 
+**Checkpoints for week#11**
+
+ - Worked intensively on synching up the animation for both player, due to constraints imposed by Norm Core this proved to be a challenge.
+ - Fixed bugs of interface, there were instances when some buttons won't do anything.
+
+**Checkpoints for week#12**
+ - Reviewed (again) the cards to make sure that everything is balanced as it should be.
+ - Fixed bugs of interface, there were instances when some buttons won't do anything.
+
+**Checkpoints for week#13**
+ - There were some instances when the animation of a character would go haywire, this was fixed 
+ - Stability of the game was improved , mostly fixed some really nasty crashes.
+
+
