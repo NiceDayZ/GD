@@ -100,4 +100,13 @@
  - There were some instances when the animation of a character would go haywire, this was fixed 
  - Stability of the game was improved , mostly fixed some really nasty crashes.
 
+**Final week#14**
+ - Sound effects and music finally added , there was no sound at all until this point. 
+ - In addition to music which was implemented there is also a system that makes the music change depending on the state of the player's health
+ - Some UI triggers were implemented to make the menu much more user friendly.
+ - Improved animations , now there is a close-up when two creatures attack each other.
+ - Additional spells were implemented.
+ - The game is able to end now, an end screen was added which redirects the player back to the screen.
+
+
 
