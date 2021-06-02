@@ -5,6 +5,8 @@
 |Craciun Mihai-Cosmin|B3|
 |Ionita Mihail-Catalin|B2|
 
+[Youtube video](https://www.youtube.com/watch?v=EbtOOZzI3aA)
+
 [Arhiva Proiect](https://drive.google.com/drive/folders/18iVYfz0BP-ebrDoqoc8UgOdXBsKQBnHy?usp=sharing)
 ---
 
